@@ -1,0 +1,25 @@
+Spring Notes
+1) MVC
+POM :- Project Object Model
+
+To check Apache Tomcat:-
+project->right click->Targeted Runtime->new->add
+
+web.xml:-
+org.springframework.web.servlet.DispatcherServlet = Add some libraries
+
+JSTL :- JSP Standard Tag Library
+
+Spring Core:-
+Maven:-
+	Maven is build tool and project management tool.
+Jar and War File :-
+	Jar - Core java application
+	War - Web Application
+Dependency Injection :-
+	1. BeanFactory - small level application
+	2. ApplicationContext (Interface)-  
+		Enterprise level application or web level application
+		It is supper class of BeanFactory.
+	Example:- ApplicationContext context = new ClassPathXmlApplicationContext(abc.xml);
+	getBean()- It is used to give object of class

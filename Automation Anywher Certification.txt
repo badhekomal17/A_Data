@@ -1,0 +1,47 @@
+Courses:
+
+Automation Anywhere Certified Advanced RPA Professional (V11.0)
+
+Login:-
+https://apeople.automationanywhere.com/sso/s/login/
+
+Mihir Shukla = CEO/Founder
+Today's RPA is:-
+1. Object Oriented
+2. Capable of operating on multiple systems
+3. Capable of process execution
+4. Capable of complex data-based decision
+5. Neural network training
+6. Cognitive models and robotic decision making
+
+RPA- Robotic Process Automation
+	Fast-Work
+	Navigates diffrent digital landscapes
+	Built for complecity
+	Made for Enterprise
+	Non-Invasive
+	Scalable
+	Easy to integrate with other systems
+
+Automation Anywhere:- (Slogan-Go Be Grate)
+	One powerful RPA Software
+ 	It is the world's leading enterprise grade cognitive RPA platform.
+
+Automation Anywhere Bots:-
+1. Tast Bots
+2. IQ Bots- Next generation of inteligent bots
+3. Meta Bots
+
+Application Anywhere Layer:-
+UI
+API
+OS
+DB
+
+Benefits Of Automation:-
+1. Reduced Cost
+2. Decreased Errors
+3. Improved Efficiency
+4. Increased Capacity
+5. Business Agility
+6. Company Wide Productivity
